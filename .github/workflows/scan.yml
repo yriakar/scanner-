@@ -9,7 +9,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'yriakar/tm-rocks:yy'
+          default: 'yriakar/tm-rocks:mm'
 
 # env:
 #   REGISTRY: ghcr.io
